@@ -1,0 +1,60 @@
+.total-expense{
+    background-color: cornflowerblue;
+    padding: 5px;
+    border-radius: 24px;
+    text-align: center;
+    font-family: algerian;
+    margin-top: 150px;
+}
+.total-list{
+    background-color: #4E9AD7;
+    padding: 6px;
+    text-align: center;
+    border-radius: 9px;
+}
+.expense-form{
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.expense-form input{
+    width: 300px;
+    margin: 5px;
+    outline: none;
+    border: 1px solid rgb(76, 76, 76);
+    padding: 15px;
+    border-radius: 8px;
+}
+.expense-form .btn{
+    width: 150px;
+    background-color: #53C9BC;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: bold;
+    margin: 10px;
+    cursor: pointer;
+}
+.table{
+    border: 1px solid #243C54;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 9px;
+    background-color: whitesmoke;
+    border: 1px solid #27537e;
+}
+
+.btn{
+    background-color: #F05454;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
